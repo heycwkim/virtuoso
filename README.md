@@ -1,2 +1,2 @@
 # virtuoso
-QoS based SDN Orchestrator
+SDN based controller orchestrator for QoS
